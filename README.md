@@ -1,5 +1,4 @@
-[affanNNNNN.html](https://github.com/user-attachments/files/25084264/affanNNNNN.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
