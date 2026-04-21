@@ -120,11 +120,11 @@
             Official Valentine Status: Active ✅
         </div>
         
-        <h1 class="text-4xl font-serif italic font-bold gradient-text">Meri Kababbbb! 💖</h1>
+        <h1 class="text-4xl font-serif italic font-bold gradient-text">AYEESHA</h1>
         
         <div class="letter-scroll max-h-[450px] overflow-y-auto pr-2 text-left space-y-6 mt-6">
             <p class="text-gray-200 leading-relaxed handwritten text-3xl">
-                My KABAB, 🌸
+                AYEEESHAA, 🌸
             </p>
             <p class="text-gray-300 leading-relaxed text-lg">
                 I just wanted to take a second to tell you how much you mean to me. 🧸 I know I call you "crusty" sometimes, but honestly? You’re the most amazing part of my day. ✨
@@ -139,8 +139,8 @@
                 Let's make some more chaotic memories together! 🥂🔥
             </p>
             <p class="text-pink-400 font-bold handwritten text-4xl pt-4">
-                Love you forever, 💋 <br>
-                [RUBABBBB ] 🏹
+                Peace you forever,  <br>
+                [AYESHA ] 🏹
             </p>
         </div>
 
