@@ -89,7 +89,7 @@
 
     <div id="step-1" class="max-w-md w-full glass p-8 text-center space-y-6 reveal active">
         <h2 class="text-sm uppercase tracking-[0.3em] text-gray-400">February 14, 2026</h2>
-        <h1 class="text-4xl font-bold font-serif italic">Hey, RUBABB. 👋</h1>
+        <h1 class="text-4xl font-bold font-serif italic">Hey, AYEEESHHAA. 👋</h1>
         <p class="text-gray-300 leading-relaxed">
             I have a very important question for you... 🤫
         </p>
@@ -101,7 +101,7 @@
     <div id="step-2" class="max-w-lg w-full glass p-10 text-center space-y-8 hidden">
         <div class="floating text-6xl">💝</div>
         <h1 class="text-4xl md:text-5xl font-bold leading-tight">
-            Will you be my <span class="gradient-text">Valentine?</span>
+            Will you be my <span class="gradient-text">😜😜😜😜</span>
         </h1>
         <p class="text-gray-400 italic">No is not an option (I've made sure of it) 🎀</p>
         
