@@ -139,7 +139,7 @@
                 Let's make some more chaotic memories together! 🥂🔥
             </p>
             <p class="text-pink-400 font-bold handwritten text-4xl pt-4">
-                Peace you forever,  <br>
+                Peace  forever,  <br>
                 [AYESHA ] 🏹
             </p>
         </div>
